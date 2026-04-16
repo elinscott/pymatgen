@@ -35,3 +35,4 @@ kramdown:
 
 include:
   - _static
+  - objects.inv
