@@ -56,6 +56,7 @@ jobs:
           rm apidoc/*.rst
           mv html/pymatgen*.html .
           mv html/modules.html .
+          mv html/objects.inv .
           cp -r html/_static _static
           touch .nojekyll
 
