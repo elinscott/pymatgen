@@ -55,7 +55,7 @@ classifiers = [
     "Topic :: Software Development :: Libraries :: Python Modules",
 ]
 dependencies = [
-    "pymatgen-core>=2026.4.7"
+    "pymatgen-core>=2026.4.16"
 ]
 version = "2026.3.23"
 
@@ -290,7 +290,7 @@ dev = [
     "pre-commit>=4.2.0",
 ]
 test = [
-    "pytest>=8.3.5",
+    "pytest>=9.0.3",
     "pytest-cov>=6.0.0",
     "pytest-split>=0.10.0",
     "pytest-xdist>=3.0.0"
